@@ -19,7 +19,8 @@ https://docs.qq.com/doc/DR2tFek1YdGpNSG9X
 请绘制计算机控制系统结构框图，拍照上传到本仓库，并将照片放到本readme的结果中
 
 #结果
-![](https://github.com/Gaogao-G/first/new/picture.png)
+
+![](http://https://github.com/Gaogao-G/first/blob/master/new/picture.png)
 
 （如何插入图片<https://blog.csdn.net/itmyhome1990/article/details/48765703>）
 
