@@ -20,7 +20,7 @@ https://docs.qq.com/doc/DR2tFek1YdGpNSG9X
 
 #结果
 
-![](http://https://github.com/Gaogao-G/first/blob/master/new/picture.png)
+![](https://github.com/Gaogao-G/first/blob/master/new/picture.png)
 
 （如何插入图片<https://blog.csdn.net/itmyhome1990/article/details/48765703>）
 
